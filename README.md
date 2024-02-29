@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @teopinillo
+- 👋 Hi, I’m @theofrancis
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently enrolled at Western Governors University
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me theofrancis.dev@gmail.com
 
