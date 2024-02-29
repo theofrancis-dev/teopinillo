@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me teopinillo@gmail.com
+- 📫 How to reach me theofrancis.dev@gmail.com
 
 <!---
 teopinillo/teopinillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
